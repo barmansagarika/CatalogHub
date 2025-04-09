@@ -88,3 +88,8 @@ The project follows Clean Architecture principles with three main layers:
 - Browse a catalog of products
 - View detailed information about each product
 - Consistent UI theme across the application
+
+## Screenshots
+![image alt](https://github.com/barmansagarika/ProductApp/blob/424e2ee3684187ff8cf0124bb9f5fbf3ab79351d/Screenshot_20250410_024949.jpg)
+
+![image alt](https://github.com/barmansagarika/ProductApp/blob/424e2ee3684187ff8cf0124bb9f5fbf3ab79351d/Screenshot_20250410_024956.jpg)
