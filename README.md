@@ -1,10 +1,10 @@
-# ProductApp
+# Catalog Hub
 
 A modern Android application that displays a catalog of products using clean architecture principles and modern Android development practices.
 
 ## Project Overview
 
-ProductApp is a demonstration app that showcases a catalog of products with detailed information. The application follows clean architecture with a clear separation of concerns across data, domain, and presentation layers.
+Catalog Hub is a demonstration app that showcases a catalog of products with detailed information. The application follows clean architecture with a clear separation of concerns across data, domain, and presentation layers.
 
 ## Architecture
 
